@@ -14,7 +14,7 @@ public class LISVariables {
 		System.out.println("the instance variabl is " +(value));
 		System.out.println("the static variable is " +(s));
 		
-		
+		// Making Changes in this to see update in git
 
 	}
 
